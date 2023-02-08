@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3b69bdec.css",
-    "main.js": "/static/js/main.2705f2ef.js",
+    "main.js": "/static/js/main.c0e3e011.js",
     "static/js/787.88fd6599.chunk.js": "/static/js/787.88fd6599.chunk.js",
     "static/media/ruver.pdf": "/static/media/ruver.90af2d9dc6641d795d42.pdf",
     "static/media/uaver.pdf": "/static/media/uaver.0d9713a85aeb3a3fbbcc.pdf",
@@ -21,11 +21,11 @@
     "static/media/logo.png": "/static/media/logo.fa4e878d1f07e4a9e9f2.png",
     "index.html": "/index.html",
     "main.3b69bdec.css.map": "/static/css/main.3b69bdec.css.map",
-    "main.2705f2ef.js.map": "/static/js/main.2705f2ef.js.map",
+    "main.c0e3e011.js.map": "/static/js/main.c0e3e011.js.map",
     "787.88fd6599.chunk.js.map": "/static/js/787.88fd6599.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b69bdec.css",
-    "static/js/main.2705f2ef.js"
+    "static/js/main.c0e3e011.js"
   ]
 }
