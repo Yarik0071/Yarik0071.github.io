@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.58606535.css",
-    "main.js": "/static/js/main.890d8e27.js",
+    "main.css": "/static/css/main.3b69bdec.css",
+    "main.js": "/static/js/main.2705f2ef.js",
     "static/js/787.88fd6599.chunk.js": "/static/js/787.88fd6599.chunk.js",
+    "static/media/ruver.pdf": "/static/media/ruver.90af2d9dc6641d795d42.pdf",
+    "static/media/uaver.pdf": "/static/media/uaver.0d9713a85aeb3a3fbbcc.pdf",
+    "static/media/esver.pdf": "/static/media/esver.302cc3f15903f0e91756.pdf",
     "static/media/bgcLap.png": "/static/media/bgcLap.2c97114c5c7bb0edec5c.png",
-    "static/media/uaversion.pdf": "/static/media/uaversion.0eb1a21dbf4bdfd6656b.pdf",
-    "static/media/esversion.pdf": "/static/media/esversion.943f67559cba04a8bb1d.pdf",
     "static/media/AlegreyaSans-Black.ttf": "/static/media/AlegreyaSans-Black.f75926cdf4ed4e177d67.ttf",
     "static/media/AlegreyaSans-Bold.ttf": "/static/media/AlegreyaSans-Bold.643f914d33e580c52b47.ttf",
     "static/media/AlegreyaSans-ExtraBold.ttf": "/static/media/AlegreyaSans-ExtraBold.6cfbc3af5ba0c2d71ebe.ttf",
@@ -19,12 +20,12 @@
     "static/media/AlegreyaSans-LightItalic.ttf": "/static/media/AlegreyaSans-LightItalic.e87ed21829e7026ad11b.ttf",
     "static/media/logo.png": "/static/media/logo.fa4e878d1f07e4a9e9f2.png",
     "index.html": "/index.html",
-    "main.58606535.css.map": "/static/css/main.58606535.css.map",
-    "main.890d8e27.js.map": "/static/js/main.890d8e27.js.map",
+    "main.3b69bdec.css.map": "/static/css/main.3b69bdec.css.map",
+    "main.2705f2ef.js.map": "/static/js/main.2705f2ef.js.map",
     "787.88fd6599.chunk.js.map": "/static/js/787.88fd6599.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58606535.css",
-    "static/js/main.890d8e27.js"
+    "static/css/main.3b69bdec.css",
+    "static/js/main.2705f2ef.js"
   ]
 }
